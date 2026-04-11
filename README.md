@@ -17,4 +17,3 @@
 - Развертываю проекты на **Docker, Podman, compose**
 - Виртуализирую через **Proxmox, Virtualizor**
 - Подключаю сервисы через **Caddy, NGINX, Apache2**
-- 
